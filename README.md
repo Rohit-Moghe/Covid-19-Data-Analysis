@@ -1,10 +1,11 @@
-)# Covid 19 Data Analysis
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+# Covid 19 Data Analysis
 This is the project in which we analyze the Covid-19 Pandemic Condition throughout the world including total cases, deaths, and vaccinations.
+
 ## Objective:
 To understand the current situation during the COVID-19 Pandemic in the world. To find the insights from the data about the number of cases of covid occurred at the global level in each continent along with the number of deaths and total vaccinations that happened. The purpose of this is to develop a dynamic dashboard using Power BI software and tools to observe different regions and continents so that understand the trends of this pandemic and make a counter plan according to the regions.
 ## Dashboard
