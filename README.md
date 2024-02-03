@@ -39,7 +39,7 @@ To understand the current situation during the COVID-19 Pandemic in the world. T
 4. Data Visualization tools: Power-BI with Dax Editor
 
 ## Python - Pandas for Data Analysis:
-[Data](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/8f650a397bfe9b2103552e6edbf237ea2038c0ee/Covid_19_EDA.ipynb)
+[Covid_19_EDA.ipynb](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/8f650a397bfe9b2103552e6edbf237ea2038c0ee/Covid_19_EDA.ipynb)
 
 
 ## END RESULT:
