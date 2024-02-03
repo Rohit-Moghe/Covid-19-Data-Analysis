@@ -11,24 +11,28 @@ To understand the current situation during the COVID-19 Pandemic in the world. T
 ### 1. Key Insights:
 ![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/310c47136b1a5dbfbc998d55648b6f2beb7bd99c/Key%20Insights/Dashboard.jpg)
 
-### 2. Region Wise Data:
-
-
+### 2. Region Wise Covid-19 Data:
 
 ![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/a41da5006bd3c708b79b7eddf2bae579d74b83f7/Key%20Insights/Percentage.jpg)
+
+### 3. Region Wise Vaccination Data:
+ 
 ![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights.jpg)
 ![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights%202.jpg)
 
-### 3. Covid Data for TOP 15 Countries:
-![Covid](https://user-images.githubusercontent.com/96460908/153546378-7d2fcffa-f19b-469c-9cdc-a77c1c48675e.jpg)
-### 4. Vaccination Data for Top 15 Countries:
+### 4. Covid Data for TOP 10 Countries:
+
+![Covid](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/891ea8f0c303f8b1a79cdecf26a3646b682633fd/Key%20Insights/Country%20Insights%201.jpg)
+
+### 5. Vaccination Data for Top 10 Countries:
+
 ![Vaccinations Data](https://user-images.githubusercontent.com/96460908/153546436-5a834b79-658a-418c-9486-cacb26ab5b5d.jpg)
 
 ## Database and Technology used:
-Database: https://ourworldindata.org/covid-deaths
-Technology Used: Python - Google Colab
-Libraries Used: Numpy, Pandas, Matplotlib and Seaborn
-Data Visualization tools: Power-BI with Dax Editor
+1. Database: https://ourworldindata.org/covid-deaths
+2. Technology Used: Python - Google Colab
+3. Libraries Used: Numpy, Pandas, Matplotlib and Seaborn
+4. Data Visualization tools: Power-BI with Dax Editor
 
 ## Python - Pandas for Data Analysis:
 ![Data](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/8f650a397bfe9b2103552e6edbf237ea2038c0ee/Covid_19_EDA.ipynb)
