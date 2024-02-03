@@ -9,6 +9,7 @@ This is the project in which we analyze about the Covid-19 Pandemic Condition th
 To understand the current situation occured to the Covid 19 Pandemic in the world. To find the insights from the data about the number of cases of covid occured at global level in each continent along with the number of deaths and total vaccinations happen. The purpose of this to develope the dynamic dashboard using Power BI software and tools to observe different regions and continents so that understand the trends of this pandemic and make counter plan according to the regions.
 ## Dashboard
 ### 1. Key Insights:
+https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/310c47136b1a5dbfbc998d55648b6f2beb7bd99c/Key%20Insights/Dashboard.jpg
 ![Key Insights](https://user-images.githubusercontent.com/96460908/153005798-29994671-023b-499f-a5e1-6254460d3085.jpg)
 ### 2. Region Wise Data:
 ![Data](https://user-images.githubusercontent.com/96460908/153546284-ae5d414a-7554-437d-96bb-81b05757514c.jpg)
