@@ -12,6 +12,7 @@ To understand the current situation occured to the Covid 19 Pandemic in the worl
 ![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/310c47136b1a5dbfbc998d55648b6f2beb7bd99c/Key%20Insights/Dashboard.jpg)
 
 ### 2. Region Wise Data:
+![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/a41da5006bd3c708b79b7eddf2bae579d74b83f7/Key%20Insights/Percentage.jpg)
 ![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights.jpg)
 ![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights%202.jpg)
 
