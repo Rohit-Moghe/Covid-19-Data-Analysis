@@ -12,7 +12,9 @@ To understand the current situation occured to the Covid 19 Pandemic in the worl
 ![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/310c47136b1a5dbfbc998d55648b6f2beb7bd99c/Key%20Insights/Dashboard.jpg)
 
 ### 2. Region Wise Data:
-![Key Insights][(https://user-images.githubusercontent.com/96460908/153546284-ae5d414a-7554-437d-96bb-81b05757514c.jpg)](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights.jpg)
+![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights.jpg)
+![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights%202.jpg)
+
 ### 3. Covid Data for TOP 15 Countries:
 ![Covid](https://user-images.githubusercontent.com/96460908/153546378-7d2fcffa-f19b-469c-9cdc-a77c1c48675e.jpg)
 ### 4. Vaccination Data for Top 15 Countries:
