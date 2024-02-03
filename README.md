@@ -13,20 +13,23 @@ To understand the current situation during the COVID-19 Pandemic in the world. T
 
 ### 2. Region Wise Covid-19 Data:
 
-![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/a41da5006bd3c708b79b7eddf2bae579d74b83f7/Key%20Insights/Percentage.jpg)
+![Covid](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/a41da5006bd3c708b79b7eddf2bae579d74b83f7/Key%20Insights/Percentage.jpg)
 
-### 3. Region Wise Vaccination Data:
+### 3. Region Wise Patient's Data:
+
+![Patient](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights.jpg)
+
+### 4. Region Wise Vaccination Data:
  
-![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights.jpg)
-![Key Insights](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights%202.jpg)
+![Vaccination](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/b9491f849bd713e0019f4c8fa6e2882a9a802581/Key%20Insights/Continent%20Insights%202.jpg)
 
-### 4. Covid Data for TOP 10 Countries:
+### 5. Covid Data for TOP 10 Countries:
 
 ![Covid](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/891ea8f0c303f8b1a79cdecf26a3646b682633fd/Key%20Insights/Country%20Insights%201.jpg)
 
-### 5. Vaccination Data for Top 10 Countries:
+### 6. Vaccination Data for Top 10 Countries:
 
-![Vaccinations Data](https://user-images.githubusercontent.com/96460908/153546436-5a834b79-658a-418c-9486-cacb26ab5b5d.jpg)
+![Vaccinations Data](https://github.com/Rohit-Moghe/Covid-19-Data-Analysis/blob/3d41cd49d4538fff1b12c6a5944cadd7e3b2d62b/Key%20Insights/Country%20Insights%203.jpg)
 
 ## Database and Technology used:
 1. Database: https://ourworldindata.org/covid-deaths
